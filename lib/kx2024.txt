@@ -2059,7 +2059,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 重庆卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 吉林卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 黑龙江视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-💝广东揭阳👉电信,#genre# 
+💝揭阳电信👉KAITV,#genre# 
 无线星河高清,http://113.64.145.132:8081/hls/135/index.m3u8
 凤凰资讯高清,http://113.64.145.132:8081/hls/36/index.m3u8
 凤凰卫视高清,http://113.64.145.132:8081/hls/37/index.m3u8
@@ -2087,7 +2087,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 风云音乐高清,http://113.64.145.132:8081/hls/117/index.m3u8
 风云音乐标清,http://113.64.145.132:8081/hls/88/index.m3u8
 风云文化标清,http://113.64.145.132:8081/hls/33/index.m3u8
-💝广东频道👉全网,#genre#
+💝广东全网👉KAITV,#genre#
 广州新闻,https://tv.cry33.com/gztv.php?id=gzxw#http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州法治,https://tv.cry33.com/gztv.php?id=gzfz#http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州生活,https://tv.cry33.com/gztv.php?id=gzsh
@@ -2168,7 +2168,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 广东体育,http://125.89.163.44:8888/udp/239.77.0.6:5146
 广东体育,http://125.89.163.44:8888/udp/239.77.1.97:5146
 
-💝咪咕体育👉全网,#genre#
+💝咪咕全网👉KAITV,#genre#
 咪咕直播_1「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 咪咕直播_2「IPV6」,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
 咪咕直播_3「IPV6」,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
@@ -2207,7 +2207,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 咪咕直播_36「IPV6」,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 咪咕直播_37「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 咪咕直播_38「IPV6」,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-💝IHOT爱ipv6👉KAITV,#genre#
+💝IHOTipv6👉KAITV,#genre#
 iHOT爱喜剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱科幻,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱院线,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
@@ -3320,7 +3320,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8 
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
-,#genre#
+🐎和🎟👉KAITV,#genre#
 ⑥开心转播线路1,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 ⑥开心转播线路2,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 ⑥香港21:30四九,rtmp://100www.ku55.cn/zzjj123/livekj123?auth_key=2299702236-0-0-4d409d8bca97ea5ff8fd9cf763129ac1
@@ -3339,12 +3339,13 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 💝火炬diyp,http://live.dxms.top:80/dwy/mgak.php#https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://1.62.64.76/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2022576803.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e#http://110.249.196.71/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 💝OK影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 💝火炬TV0.2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-💝蜜蜂影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+💝KK影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 💝支持使用,http://113.98.122.166:9901/tsfile/live/1006_1.m3u8?key=txiptv
-💝影视仓和火炬仓,http://113.98.122.166:9901/tsfile/live/1006_1.m3u8?key=txiptv
-💝tvbox,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-💝会闪退,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-纪录纪实,#genre#
+💝KAITV和KK影视,http://113.98.122.166:9901/tsfile/live/1006_1.m3u8?key=txiptv
+💝KAITV,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+💝感谢支持,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+
+💝纪录纪实👉KAITV,#genre#
 BBC地球,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
 BBC地球,mitv://generationnexxxt.com:19806/17826db977f04f8fa679d438d6c51700
 BBC生活,mitv://generationnexxxt.com:19806/5955951f08424fd49e21d90e882e5228
@@ -3407,7 +3408,7 @@ EYETV旅游,P2p://generationnexxxt.com:19806/055ce8e749c1425c87950f93d0bf9bcd
 TLC旅游生活,P2p://generationnexxxt.com:19806/621ca70412034f5eb919c1ec03679804
 达文西频道,P2p://generationnexxxt.com:19806/65939a080006919098d4bd6914a733d2
 
-国际频道,#genre#
+💝国际频道👉KAITV,#genre#
 ABC AU,mitv://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
@@ -3450,7 +3451,7 @@ Sky News,P2p://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
 The Weather Network,P2p://generationnexxxt.com:19806/65792289000be5843171ed9050240875
 The Weather Channel,P2p://generationnexxxt.com:19806/65792289000516983171ebcb68d70d48
 
-国内频道,#genre#
+💝国内频道👉KAITV,#genre#
 CCTV-1 综合,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV-2 财经,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV-3 综艺,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
@@ -3525,7 +3526,7 @@ CCTV-15 音乐,P2p://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
 大湾区卫视,P2p://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
 广东珠江台,P2p://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
 
-台湾频道,#genre#
+💝台湾频道👉KAITV,#genre#
 中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 华视新闻,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
 台视新闻,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
@@ -3733,7 +3734,7 @@ Z频道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 MOMO综合,P2p://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
 MOMO亲子,P2p://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 
-港澳频道,#genre#
+💝港澳频道👉KAITV,#genre#
 无线新闻台,mitv://147.135.39.171:9906/658f93d500090264f39e82304f2d4370
 无线新闻台,mitv://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328
 无线新闻台,mitv://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
@@ -3812,7 +3813,7 @@ ViuTV 6,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 澳门MACAU,P2p://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
 澳门MACAU,P2p://generationnexxxt.com:19806/ed4ff86efe2647dd8c6f6f91739dd9c9
 
-海外华语,#genre#
+💝海外华语👉KAITV,#genre#
 Astro AEC,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 Astro AOD 311,mitv://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
 Astro爱奇艺,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
@@ -3837,7 +3838,7 @@ Astro小太阳,P2p://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
 新時代2,P2p://generationnexxxt.com:19806/65013e4c0002afeaeeb07d8a59ff6121
 城市电视,P2p://generationnexxxt.com:19806/a18fbea7eddd4079b3e2e684d19df5c4
 
-体育频道,#genre#
+💝体育频道👉KAITV,#genre#
 Arena Bola,mitv://generationnexxxt.com:19806/6597c3de0009a0efa91838f96fd623b1
 Astro Arena,mitv://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
 Astro Supersport,mitv://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
@@ -3970,7 +3971,7 @@ DAZN 2台,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
 智林体育,P2p://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
 TRACE Sport Stars,P2p://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 
-影视频道,#genre#
+💝影视频道👉KAITV,#genre#
 amc电影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 amc电影,mitv://generationnexxxt.com:19806/3dc5467282034921b7124f4be60f4782
 AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
@@ -4125,7 +4126,7 @@ i-Fun动漫,P2p://generationnexxxt.com:19806/a215407035a548a7bd01ec29a94e5ed2
 靖洋卡通,P2p://generationnexxxt.com:19806/1279fb2d1ae14676a31b2e5b38a2cd57
 靖天卡通,P2p://generationnexxxt.com:19806/0e27e5f319264b609ec810e126edf969
 
-娱乐频道,#genre#
+💝娱乐频道👉KAITV,#genre#
 ChannelV,mitv://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
 Classica古典乐,mitv://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
 Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
