@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "https://kaitv.kaiserver.uk/https://raw.githubusercontent.com/wy357251/KAITV-TEST/main/kaitv.jar",
+	"spider": "./kaitv.jar",
 	"wallpaper": "",
     "logo": "",
 	"lives": [{
