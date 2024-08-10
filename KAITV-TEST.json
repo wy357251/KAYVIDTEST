@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "http://ttkx.live:55/ttkx.jar",
+	"spider": "http://ttkx.live:55/lib/ttkx.jar",
 	"wallpaper": "",
     "logo": "",
 	"lives": [{
