@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "http://ttkx.live:55/天天开心/lib/ttkx.jar",
+	"spider": "./kaitv.jar",
 	"wallpaper": "",
     "logo": "",
 	"lives": [{
