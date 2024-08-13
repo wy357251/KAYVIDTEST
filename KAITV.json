@@ -2,8 +2,6 @@
 
 {
 	"spider": "https://kaitv.kaiserver.uk/https://raw.githubusercontent.com/wy357251/KAITV/main/kaitv.jar",
-	"wallpaper": "",
-    "logo": "",
 	"lives": [{
 		    "name": "live",
             "type":0,
