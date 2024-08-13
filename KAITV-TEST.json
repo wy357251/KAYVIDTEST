@@ -2,8 +2,6 @@
 
 {
 	"spider": "./kaitv.jar",
-	"wallpaper": "",
-    "logo": "",
 	"lives": [{
 		    "name": "live",
             "type":0,
