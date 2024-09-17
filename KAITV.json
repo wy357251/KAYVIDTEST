@@ -1,6 +1,6 @@
 {
-  "spider": "./KAITV.txt;md5;96a7414f28257af29ca81e0c29f10067",
-  "lives": [{
+	"spider": "./KAITV.txt;md5;96a7414f28257af29ca81e0c29f10067",
+	"lives": [{
 		    "name": "live",
             "type":0,
  	        "url": "./lib/kaitv-live.txt",
@@ -10,7 +10,7 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
   
-  "sites": [
+		"sites": [
     {
       "key": "豆瓣",
       "name": "🎟┃KAITV榜单┃KK祝大家万事顺心!🎉",
