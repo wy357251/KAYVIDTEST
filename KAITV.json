@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "http://ttkx.live:55/ttkx.jar",
+	"spider": "https://ghp.ci/https://raw.githubusercontent.com/wy357251/KAITV-TEST/main/ttkx.jar",
 	"lives": [{
 		    "name": "①live",
             "type":0,
