@@ -5,7 +5,7 @@
 	"lives": [{
 		    "name": "①live",
             "type":0,
- 	        "url": "https://kaitv.kaiserver.uk/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/kx2024.txt",
+ 	        "url": "https://kaitv.kaiserver.uk/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/kaitv.txt",
             "ua": "okhttp/3.15",
             "playerType": 1,
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -14,7 +14,7 @@
   	    	            {
             "name": "②Live(EXO)",
             "type": 0,
-            "url": "https://kaitv.kaiserver.uk/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/kx2024.txt",
+            "url": "https://kaitv.kaiserver.uk/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/kaitv.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
