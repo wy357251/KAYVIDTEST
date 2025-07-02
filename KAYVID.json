@@ -1047,14 +1047,11 @@
       ]
     }
   ],
-  "ads": [
-    "mozai.4gtv.tv"
-  ],
   "lives": [
     {
-      "name": "爱直播",
+      "name": "live",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+      "url": "https://raw.kkgithub.com/Guovin/iptv-api/refs/heads/master/output/result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 2,
       "timeout": 10
